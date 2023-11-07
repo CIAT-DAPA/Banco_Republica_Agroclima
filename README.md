@@ -1,5 +1,7 @@
 # Banco de la Republica Agroclima
 
+Scripts para el procesamiento de datos históricos.
+
 ## INDICADORES INCLUIDOS
 
 A la fecha, hemos calculado un total de 12 índices. Los índices son los siguientes,
