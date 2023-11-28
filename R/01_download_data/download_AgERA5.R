@@ -13,9 +13,10 @@
 
 library(ecmwfr)
 # =-----------------------------------------------=
+# Registrarse en Copernicus para obtener UID y Key 
 # credentials
 UID = "129570"
-key = "a2dd82bf-3cd2-4216-9f8f-610a2409e349"
+key = "a2dd82bf-3cd2-4216-9f8f-XXXXXXX"
 
 # =-----------------------------------------------=
 # save key for CDS
